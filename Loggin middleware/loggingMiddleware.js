@@ -5,7 +5,7 @@ const loggingMiddleware = (req, res, next) => {
     path: req.path,
     body: req.body,
   };
-  console.log(JSON.stringify(logEntry)); 
+  console.log(JSON.stringify(logEntry)); // Replace with custom logging logic
   next();
 };
 
