@@ -1,0 +1,13 @@
+{
+  "totalClicks": 1,
+  "originalUrl": "https://example.com",
+  "createdAt": "2025-06-27T14:59:00.000Z",
+  "expiry": "2025-06-27T15:59:00.000Z",
+  "clicks": [
+    {
+      "timestamp": "2025-06-27T14:59:30.000Z",
+      "source": "Direct",
+      "location": "::1"
+    }
+  ]
+}
